@@ -1,6 +1,6 @@
 # Machine Learning Project: Olympics 1896 - 2020
 
-**Team** : Ansh Kamthan, Aayush Sharma, Kabir Narang
+**Team** : Ankit Godara, Rushikesh Dhaygude
 
 [Presentation](https://drive.google.com/file/d/1fLLRSHATnKIshJvXfXS-zz_2k5JL5zGe/view)
 
