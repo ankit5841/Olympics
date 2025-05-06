@@ -5,7 +5,7 @@
 [Presentation](https://drive.google.com/file/d/1-RSDB4wELrGFX5hieZ7fTDe-liq_cAGl/view?usp=drive_link)
 
 
-**Data Source** : [Google Drive](https://drive.google.com/drive/folders/1n7jqmNPlnJFJWDQNVLNJZBZr6pp5nww-?usp=sharing)
+**Data Source** : [Google Drive](https://drive.google.com/drive/folders/1RRbD1HErt7Bh_P6X6s6Ifx0FX3MqShCv?usp=drive_link)
 
 **Data Description**
 [Kaggle Olympics Dataset](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results)
